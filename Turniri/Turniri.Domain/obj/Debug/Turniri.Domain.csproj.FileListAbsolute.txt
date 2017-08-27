@@ -1,0 +1,13 @@
+c:\users\josip\documents\visual studio 2017\Projects\Turniri\Turniri.Domain\bin\Debug\Turniri.Domain.dll
+c:\users\josip\documents\visual studio 2017\Projects\Turniri\Turniri.Domain\bin\Debug\Turniri.Domain.pdb
+c:\users\josip\documents\visual studio 2017\Projects\Turniri\Turniri.Domain\obj\Debug\Turniri.Domain.csprojResolveAssemblyReference.cache
+c:\users\josip\documents\visual studio 2017\Projects\Turniri\Turniri.Domain\obj\Debug\Turniri.Domain.dll
+c:\users\josip\documents\visual studio 2017\Projects\Turniri\Turniri.Domain\obj\Debug\Turniri.Domain.pdb
+C:\Users\Josip\documents\visual studio 2017\Projects\Turniri\Turniri.Domain\bin\Debug\Turniri.Domain.dll.config
+C:\Users\Josip\documents\visual studio 2017\Projects\Turniri\Turniri.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Josip\documents\visual studio 2017\Projects\Turniri\Turniri.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Josip\documents\visual studio 2017\Projects\Turniri\Turniri.Domain\bin\Debug\Turniri.Data.dll
+C:\Users\Josip\documents\visual studio 2017\Projects\Turniri\Turniri.Domain\bin\Debug\Turniri.Data.pdb
+C:\Users\Josip\documents\visual studio 2017\Projects\Turniri\Turniri.Domain\bin\Debug\Turniri.Data.dll.config
+C:\Users\Josip\documents\visual studio 2017\Projects\Turniri\Turniri.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Josip\documents\visual studio 2017\Projects\Turniri\Turniri.Domain\bin\Debug\EntityFramework.SqlServer.xml

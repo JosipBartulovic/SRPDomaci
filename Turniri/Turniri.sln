@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turniri.Presentation", "Turniri.Presentation\Turniri.Presentation.csproj", "{15A9D107-4A3D-4994-9A84-408C1387E724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turniri.Data", "Turniri.Data\Turniri.Data.csproj", "{0D101AAF-2C8F-43F6-B077-2BF1CEE7F1CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turniri.Domain", "Turniri.Domain\Turniri.Domain.csproj", "{BCFE8237-615D-4FA6-A328-395B2C9981AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15A9D107-4A3D-4994-9A84-408C1387E724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15A9D107-4A3D-4994-9A84-408C1387E724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15A9D107-4A3D-4994-9A84-408C1387E724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15A9D107-4A3D-4994-9A84-408C1387E724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D101AAF-2C8F-43F6-B077-2BF1CEE7F1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D101AAF-2C8F-43F6-B077-2BF1CEE7F1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D101AAF-2C8F-43F6-B077-2BF1CEE7F1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D101AAF-2C8F-43F6-B077-2BF1CEE7F1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFE8237-615D-4FA6-A328-395B2C9981AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFE8237-615D-4FA6-A328-395B2C9981AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFE8237-615D-4FA6-A328-395B2C9981AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFE8237-615D-4FA6-A328-395B2C9981AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
