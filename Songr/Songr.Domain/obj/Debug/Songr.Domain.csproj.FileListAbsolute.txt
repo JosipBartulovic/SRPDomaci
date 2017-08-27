@@ -1,0 +1,13 @@
+c:\users\josip\documents\visual studio 2017\Projects\Songr\Songr.Domain\bin\Debug\Songr.Domain.dll
+c:\users\josip\documents\visual studio 2017\Projects\Songr\Songr.Domain\bin\Debug\Songr.Domain.pdb
+c:\users\josip\documents\visual studio 2017\Projects\Songr\Songr.Domain\obj\Debug\Songr.Domain.csprojResolveAssemblyReference.cache
+c:\users\josip\documents\visual studio 2017\Projects\Songr\Songr.Domain\obj\Debug\Songr.Domain.dll
+c:\users\josip\documents\visual studio 2017\Projects\Songr\Songr.Domain\obj\Debug\Songr.Domain.pdb
+c:\users\josip\documents\visual studio 2017\Projects\Songr\Songr.Domain\bin\Debug\Songr.Domain.dll.config
+c:\users\josip\documents\visual studio 2017\Projects\Songr\Songr.Domain\bin\Debug\EntityFramework.dll
+c:\users\josip\documents\visual studio 2017\Projects\Songr\Songr.Domain\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\josip\documents\visual studio 2017\Projects\Songr\Songr.Domain\bin\Debug\Songr.Data.dll
+c:\users\josip\documents\visual studio 2017\Projects\Songr\Songr.Domain\bin\Debug\Songr.Data.pdb
+c:\users\josip\documents\visual studio 2017\Projects\Songr\Songr.Domain\bin\Debug\Songr.Data.dll.config
+c:\users\josip\documents\visual studio 2017\Projects\Songr\Songr.Domain\bin\Debug\EntityFramework.xml
+c:\users\josip\documents\visual studio 2017\Projects\Songr\Songr.Domain\bin\Debug\EntityFramework.SqlServer.xml
