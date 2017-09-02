@@ -1,0 +1,35 @@
+.general_button{
+	display: block;
+	padding: 5px;
+	margin-right: 5px;
+	margin-left: 5px;
+	background-color: blue;
+}
+
+a{
+	text-decoration: none;
+	color:white;
+}
+
+input{
+	display: block;
+	margin: 5px;
+}
+
+select{
+	margin: 5px;
+}
+
+.radio{
+	display: inline-block;
+}
+
+.student_list{
+	margin: 5px;
+	margin-top: 25px;
+}
+
+.check{
+	display: inline-block;
+
+}

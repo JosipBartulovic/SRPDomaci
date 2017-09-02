@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html ng-app='EUcenik'>
+  <head>
+    <meta charset="UTF-8">
+    <title>title</title>
+	<script src='../Script/vendor/lodash.js'></script>
+	<script src='../Script/vendor/angular.js'></script>
+	<script src='../Script/vendor/LocalStorageModule.js'></script>
+	<script src='../Script/app/student.js'></script>
+	<script src='../Script/app/main_script.js'></script>
+	<link rel='stylesheet' href='../Styles/style.css'>
+	</head>
+	<body>
+		<div ng-controller='StudentCreateController'>
+			<input ng-model='Name' ng-disabled='is_all_input_disabled()'></input>
+			<input ng-model='LastName' ng-disabled='is_all_input_disabled()'></input>
+			<input class='radio' type='radio' value='M' ng-model='sex' ng-disabled='is_all_input_disabled()'>M</input>
+			<input class='radio' type='radio' value='F' ng-model='sex' ng-disabled='is_all_input_disabled()'>F</input>
+			<br>
+			<input class='check' type='checkbox' value='M' ng-model='hideM' ng-change='filter()'>Hide Males</input>
+			<input class='check' type='checkbox' value='F' ng-model='hideF' ng-change='filter()'>Hide Female</input>
+			<br>
+			<button ng-click='submit_clicked()' ng-disabled='is_button_disabled() || is_all_input_disabled()'>Submit</button>
+			<div class='student_list' ng-repeat='student in students | orderBy: student.Sex : false'>
+				{{student.PrintText}}
+			</div>
+		</div>
+	</body>
+
+</html>
